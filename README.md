@@ -7,3 +7,5 @@ This fetches and paginates chess grandmaster data from Chess.com. It first retri
 ## Last Online Display
 
 Chess api returns very old last_online data, so I added a fallback to display a human-readable format if it's older than 24 hours.
+
+Live DEMO: https://brilliant-nougat-f5f0f0.netlify.app/
